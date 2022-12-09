@@ -1,0 +1,25 @@
+{
+  "program": {
+    "candyMachine": "98yRXyvETiMZTTKxnYQSgW4wQSqEeX39KQZ6V4vAn2Pf",
+    "candyMachineCreator": "MpF3nUc1VhHHHDtiacH148UhVs1EEk2ELbXsjjkrVRK",
+    "collectionMint": "98PFysiqpkQgycWpt19Ytew9YD71EJhRHXmKT93VcEtF"
+  },
+  "items": {
+    "-1": {
+      "name": "Kawaii Kawaii",
+      "image_hash": "93c7b4cdae62fe2f680d802d07f88f755e92746f539f451d5088a9c6708305ca",
+      "image_link": "https://arweave.net/UlzRwjOHEMp1tOnKubJt4QpL_lNJUVdlgdh0Ds5JGIg?ext=png",
+      "metadata_hash": "3255c3867f1cb45d5c29562e8fde606ae62337b0e0aee14e101d6270d2b5324c",
+      "metadata_link": "https://arweave.net/2mfMkeQ7y5WybHJnVT-hHKOx85oMBiZpn2F3EL1ZQ-E",
+      "onChain": true
+    },
+    "0": {
+      "name": "Kawaii Maid",
+      "image_hash": "54e567937f03a909ed938effc121ee4806b74f67dbe52066c67f0c48fa56860f",
+      "image_link": "https://arweave.net/tQzQzmjg76m5ht058RLgYjefsimaFlrHGsXfFulWRpY?ext=png",
+      "metadata_hash": "753619ce564948e1dfe1317a345ea74d15f18787c0aabfc52d13f3a3deaed799",
+      "metadata_link": "https://arweave.net/wL_hX2I5C-7ekIpH8TQuHSDfd8-zERY0e8sNBaSLltI",
+      "onChain": true
+    }
+  }
+}

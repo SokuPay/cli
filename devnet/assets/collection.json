@@ -1,0 +1,22 @@
+{
+  "name": "Kawaii Kawaii",
+  "symbol": "K",
+  "image": "maid.png",
+  "external_url": "https://github.com/SokuPay",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "description": "Sample NFT for 2022 MAGIC EDEN: CREATOR MONETIZATION HACKATHON.",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Maid"
+    }
+  ]
+}
